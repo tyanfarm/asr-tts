@@ -1,5 +1,6 @@
 # asr-tts
-- ```sh
+1. Step by step
+``` sh
 python -m venv myenv
 
 source myenv/bin/activate
