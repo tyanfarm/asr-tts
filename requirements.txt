@@ -1,0 +1,18 @@
+transformers
+kokoro
+librosa
+soundfile
+lameenc
+fastapi
+uvicorn
+python-multipart
+numpy
+huggingface_hub
+hf_transfer
+pyinstaller
+
+# For CUDA 12.1 support
+# pip install torch==2.4.0+cu121 torchaudio==2.4.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+# For CPU-only
+# pip install torch==2.4.0 torchaudio==2.4.0
